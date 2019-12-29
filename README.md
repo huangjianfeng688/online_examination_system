@@ -5,15 +5,25 @@
 考生可以注册，成为本平台的一个用户，然后进行考试，
 考完生成成绩，同时用户可以查询自己考试的试卷，可以查看试卷解析。
 
+#### 登录界面
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1230/002033_67c3bbda_5362924.png "login.png")
+
+
+#### 主页面
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1230/002104_6cf2be33_5362924.png "main.png")
+
+#### 答题试卷
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1230/002200_a55ab7c8_5362924.png "card.png")
+
+#### 试卷解析
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1230/002226_a748a795_5362924.png "paper.png")
+
 #### 软件架构
 软件架构说明
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
